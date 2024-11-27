@@ -1,5 +1,5 @@
 # Proyecto-serpiente-1
-# realizado por jeysosn Garcia y Juan Garcia
+# realizado por Jeyson Garcia y Juan Garcia
 
 La arquitectura de un juego como la culebrita sigue un diseño sencillo y funcional, donde se estructuran elementos clave que representan los componentes del juego y sus interacciones. A continuación, se describe cómo podría diseñarse esta arquitectura en términos de programación:
 
